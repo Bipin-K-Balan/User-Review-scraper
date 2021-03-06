@@ -1,0 +1,9 @@
+issues with the project
+
+
+
+for loop try or exception set if web page doesnt exists
+
+if we give loop is 20 and page only having only 12 pages
+
+need to place & if there is space between keywords
