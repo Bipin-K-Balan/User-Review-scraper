@@ -1,8 +1,8 @@
 # User-Review-scraper
 ### This is a full blown web scrapper application that can scrape users reviews based on product key word. 
 
-The application uses BeautifulSoup4 tools which is a html based scraping library to scrap the users reviews and response based on a product which will be given as the key word.
-This had helped to mine lot of the text data related to users response from e commerce websites as csv file format in a structured way which helpful to easily analyse data and make machine learning models on business problems to understand customer sentiments towards a product.
+Web Scrapping is one of the method to extract or collect data from websites which has given permission to scrape. We can use these collected scraped data for data analysis and reach into some insights or conclusions or can even use it to create machine learning models to solve some business problem once the necessary data cleaning and preprocessing steps has been done. Here the application uses BeautifulSoup4 which is a html parsing library and here we have designed particularly to scrap the users reviews and response based on a product name given as the key word from selected E-commerce websites.
+This is one of the beautiful way to convert unstructured data that has scattered around websites into much more structured tabular csv document format. This had helped to mine lot of the text data related to users response from e commerce websites as csv file format in a structured way which helpful to easily analyse data and make machine learning models on business problems to understand customer sentiments towards a product.
 
 Flask Web frame work is used to make API calls to the front end and Python is used as the backend.
 
